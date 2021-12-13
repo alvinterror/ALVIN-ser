@@ -7,22 +7,22 @@ const Lang = Language.getString('wallpaper');
 
 Asena.addCommand({pattern: 'git', fromMe: false, desc: "Gives github link of the bot"}, (async (message, match) => {
 
-    var skl = await axios.get("https://images.wallpapersden.com/image/download/pokemon-detective-pikachu-4k_a2lrZmWUmZqaraWkpJRsZ2WtbGdl.jpg", { responseType: 'arraybuffer' })
+    var skl = await axios.get("1639216696704.jpg", { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(skl.data), MessageType.image, {mimetype: Mimetype.png, caption: `*Pikachu bot created by Ameer Suhail*
-*Creator number : wa.me/919946432377?text=Hi%20Ameer%20Suhail.%20*
+    await message.sendMessage(Buffer(skl.data), MessageType.image, {mimetype: Mimetype.png, caption: `*ALVINser bot created by ALVIN k*
+*Creator number : wa.me/918848059497?text=Hi%20Ameer%20Suhail.%20*
 
 *Bot setting video : https://youtu.be/_D4ZYuUSXjs*
 
-*Githublink (Setup)  :    https://github.com/ameer-kallumthodi/pikachu*
+*Githublink (Setup)  :    https://github.com/alvinterror/ALVIN-ser/edit/master/plugins/git.js*
 
 *Audio commads :   https://github.com/ameer-kallumthodi/pikachu/tree/master/uploads*
 
 *Sticker commads : https://github.com/ameer-kallumthodi/pikachu/tree/master/uploads*
 
-*Video For Setting Bot : https://youtu.be/_D4ZYuUSXjs* 
+*My whatsapp group : https://chat.whatsapp.com/LCv6cMWvm8ZDdEQSOcaTPH* 
 
-*For More Updates Subscribe The Channel ☝*
+*APPO SHARI ENNA 😜*
 `}) 
 
 }));
