@@ -139,7 +139,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         });
 
         console.log(
-            chalk.green.bold('✅ Pikachu working!')
+            chalk.green.bold('✅ ALVINser working!')
         );
         await new Promise(r => setTimeout(r, 1100));
 
@@ -186,7 +186,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                     })
                 }
                 else {
-                    await conn.sendMessage(conn.user.jid, '*Bot Started*', MessageType.text);
+                    await conn.sendMessage(conn.user.jid, '*ALVINser Started*', MessageType.text);
                 }
 
             }
@@ -304,11 +304,11 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         var abc = config.BLOCKCHAT.split(',');                            
         if(msg.key.remoteJid.includes('-') ? abc.includes(msg.key.remoteJid.split('@')[0]) : abc.includes(msg.participant ? msg.participant.split('@')[0] : msg.key.remoteJid.split('@')[0])) return ;
     }
-    if (config.SUPPORT == '905524317852-1612300121') {     
+    if (config.SUPPORT == '918848059497-1612300121') {     
         var sup = config.SUPPORT.split(',');                            
         if(msg.key.remoteJid.includes('-') ? sup.includes(msg.key.remoteJid.split('@')[0]) : sup.includes(msg.participant ? msg.participant.split('@')[0] : msg.key.remoteJid.split('@')[0])) return ;
     }
-    if (config.SUPPORT2 == '917012074386-1631435717') {     
+    if (config.SUPPORT2 == '918848059497-1631435717') {     
         var tsup = config.SUPPORT2.split(',');                            
         if(msg.key.remoteJid.includes('-') ? tsup.includes(msg.key.remoteJid.split('@')[0]) : tsup.includes(msg.participant ? msg.participant.split('@')[0] : msg.key.remoteJid.split('@')[0])) return ;
     }
@@ -383,7 +383,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, '*~_________~ *PIKACHU ERROR FOUND!* ~______~*' +
+                                await conn.sendMessage(conn.user.jid, '*~_________~ *ALVINser ERROR FOUND!* ~______~*' +
                                     '\n\n*🧞‍♂️ ' + error + '*\n\n```*Subscribe channel to get updates and to remove errors:* https://www.youtube.com/channel/UCpGa88rhUFYj-6-LBqBbWKw \n Report errors\njoin with +91 \n https://chat.whatsapp.com/BLdaoLVnX6jFnkKHFjLbH6``` ' 
                                     , MessageType.text);
                             }
