@@ -1,4 +1,4 @@
-<a href="https://bit.ly/3koZRGY"><img src=WELCOME TO 🇦​🇱​🇻​🇮​🇳​🇸​🇪​🇷​>
+<a href="https://bit.ly/3koZRGY"><WELCOME TO 🇦​🇱​🇻​🇮​🇳​🇸​🇪​🇷​
 <div align="center">
         <img src=1639216696704.png>
 </p>
