@@ -14,9 +14,9 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: "Gives github link of the
 
 *Bot setting video : https://youtu.be/_D4ZYuUSXjs*
 
-*Githublink (Setup)  :    https://github.com/alvinterror/ALVIN-ser/edit/master/plugins/git.js*
+*Githublink (Setup)  : https://github.com/alvinterror/ALVIN-ser/edit/master/plugins/git.js*
 
-*Audio commads :   https://github.com/ameer-kallumthodi/pikachu/tree/master/uploads*
+*Audio commads : https://github.com/ameer-kallumthodi/pikachu/tree/master/uploads*
 
 *creator : https://wa.me/c/994401498743*
 
