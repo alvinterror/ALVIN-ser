@@ -70,7 +70,7 @@ Click Pikachu logo to Join Support Group 2👇
   
 [![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@alvinterror/ALVINser-QR-?v=1)
 
-[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://github.com/alvinterror/ALVIN-ser.git.git)
+[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://github.com/alvinterror/ALVIN-ser.git)
      </div>
 <br>
 <br >
